@@ -1,9 +1,9 @@
 # hg_2_charlie
 
-Andrea -> Alfa
+[Andrea](https://github.com/Yoshikoich/hg_2_alfa) -> Alfa
 
-Aleh -> Bravo
+[Aleh](https://github.com/Aleh2004/hg_2_bravo) -> Bravo
 
-Cesar -> Charlie
+[Cesar](https://github.com/ceop0402/hg_2_charlie) -> Charlie
 
-Willy -> Delta
+[Willy](https://github.com/Sanktah/hg-2-delta) -> Delta
